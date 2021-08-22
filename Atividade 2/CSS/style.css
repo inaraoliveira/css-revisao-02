@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(204, 240, 240);
+}
+
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: fixed;
+    top: 0;
+    margin-left: 140px;
+}
+
+.imagens{
+    top: 0;
+    right: 0;
+    position: fixed;
+}
+
+.parque{
+    margin-top: 20px;
+    margin-right: 20px;
+    box-shadow: 6px 3px 3px;
+}
+
+.jampa{
+    margin-top: 20px;
+    margin-right: 20px;
+    box-shadow: 6px 3px 3px;
+}
+
+.texto{
+    background-color: rgb(106, 223, 197);
+    margin-left: 70px;
+    margin-top: 250px;
+    border-radius: 10px;
+    width: 550px;
+    box-shadow: 4px 3px 3px;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: fixed;
+    bottom: 0;
+}
